@@ -1,0 +1,28 @@
+{
+  "name": "electronfinance",
+  "version": "1.0.0",
+  "description": "Desktop finance app built on Plaid",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inklr/ElectronFinance.git"
+  },
+  "keywords": [
+    "electron",
+    "node",
+    "finance",
+    "plaid",
+    "desktop",
+    "js",
+    "javascript"
+  ],
+  "author": "Jake Doyle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inklr/ElectronFinance/issues"
+  },
+  "homepage": "https://github.com/inklr/ElectronFinance#readme"
+}
